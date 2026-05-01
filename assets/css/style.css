@@ -172,3 +172,7 @@ nav a {
   align-items: center;
   gap: 12px;
 }
+
+.footer-copy {
+  text-align: center;
+}
